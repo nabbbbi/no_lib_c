@@ -1,3 +1,4 @@
+.cpu cortex-a76	
 .global sys_write
 .global sys_read
 .global sys_errno

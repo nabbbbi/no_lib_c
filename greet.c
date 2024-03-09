@@ -1,5 +1,4 @@
-int sys_write(int fd, const void *buf, int size);
-int sys_read(int fd, const void *buf, int size);
+#include "/home/pi/programming/projects/no_lib_c/calls.h"
 
 static const int string_length(const char *str)
 {
